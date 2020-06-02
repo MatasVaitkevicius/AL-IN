@@ -1,0 +1,11 @@
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.exe
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.deps.json
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.runtimeconfig.json
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.runtimeconfig.dev.json
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.dll
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\bin\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.pdb
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\obj\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.csprojAssemblyReference.cache
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\obj\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.AssemblyInfoInputs.cache
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\obj\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.AssemblyInfo.cs
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\obj\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.dll
+D:\Universitetas\ANTRAS-KURSAS\algoritmai\Laboras-2\Lab-2-Matas\AL-IN-IFF-8-8-Matas-Vaitkevicius\AL-IN-IFF-8-8-Matas-Vaitkevicius\obj\Debug\netcoreapp3.1\AL-IN-IFF-8-8-Matas-Vaitkevicius.pdb

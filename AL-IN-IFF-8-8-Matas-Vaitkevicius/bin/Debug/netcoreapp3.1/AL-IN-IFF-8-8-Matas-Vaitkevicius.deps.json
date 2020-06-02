@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AL-IN-IFF-8-8-Matas-Vaitkevicius/1.0.0": {
+        "runtime": {
+          "AL-IN-IFF-8-8-Matas-Vaitkevicius.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AL-IN-IFF-8-8-Matas-Vaitkevicius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
